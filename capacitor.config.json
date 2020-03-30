@@ -1,0 +1,9 @@
+{
+  "appId": "come.dong.todo",
+  "appName": "todo-mobile",
+  "linuxAndroidStudioPath": "/home/hoangdong13/Downloads/AndroidSDK/android-studio/bin/studio.sh",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "cordova": {}
+}
